@@ -15,6 +15,7 @@ nav{
     align-items: center;
     background-color: white;
     position: sticky;
+	z-index: 10;
     top: 0;
 }
 nav .profile{
